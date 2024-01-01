@@ -1,6 +1,12 @@
 # Welcome 👋
 
-
+*    Chemist -> `<Programmer>`
+* 🌎 I'm Based in San Francisco, CA.
+* 💻 I'm looking for opportunities in the software development world. 
+* 🔭 I’m currently working on personal projects.
+* 🎶 I Love listening to music
+* 🌞 I like to explore and go on hikes.
+* 💌 You can contact me at hem.jared@gmail.com
 
 ## Social Media 📲
 <p align="left">
