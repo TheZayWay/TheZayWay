@@ -1,4 +1,4 @@
-<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Isaiah+Barrett!" alt="Typing SVG" /></a></div>
+<div><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=000000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Isaiah!" alt="Typing SVG" /></a></div>
 # Welcome 👋
 
 * 🪄 Chemist -> Programmer
