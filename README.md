@@ -46,11 +46,33 @@
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
- <!-- Blinking Arrow Code -->
+ <style>
+    .arrow-container {
+      position: relative;
+      height: 100px;
+    }
+
+    .arrow {
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
+      animation: blink 1s infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% {
+        opacity: 0;
+      }
+      50% {
+        opacity: 1;
+      }
+    }
+  </style>
+
   <div class="arrow-container">
     <div class="arrow">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-GLhlTQ8iS6T9zXrLl5+i+CMpL2UcbCaki27geUL5u7ePvooI5l/6b7que5gFQF" crossorigin="anonymous">
+
       &#8595;
     </div>
   </div>
-</div>
