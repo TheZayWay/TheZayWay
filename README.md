@@ -2,7 +2,7 @@
 
 
 
-## Social Media
+# Social Media 📲
 <p align="left">
   <a href="linkedin.com/in/isaiah-barrett1" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="vertical-align:top; margin:6px 4px">
