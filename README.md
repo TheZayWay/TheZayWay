@@ -46,7 +46,13 @@
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
- <style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
     .arrow-container {
       position: relative;
       height: 100px;
@@ -68,11 +74,16 @@
       }
     }
   </style>
+</head>
+<body>
 
   <div class="arrow-container">
     <div class="arrow">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha384-GLhlTQ8iS6T9zXrLl5+i+CMpL2UcbCaki27geUL5u7ePvooI5l/6b7que5gFQF" crossorigin="anonymous">
-
       &#8595;
     </div>
   </div>
+
+</body>
+</html>
+
