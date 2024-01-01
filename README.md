@@ -1,12 +1,11 @@
 # Welcome 👋
 
-*    Chemist -> '<Programmer>'
-* 🌎 I'm Based in San Francisco, CA.
-* 💻 I'm looking for opportunities in the software development world. 
-* 🔭 I’m currently working on personal projects.
-* 🎶 I Love listening to music
+* 🪄 Chemist -> Programmer
+* 🌉 Born & Raised in San Francisco, CA.
+* 🦾 I'm looking for opportunities to improve my programming skills. 
+* 🎶 
 * 🌞 I like to explore and go on hikes.
-* 💌 You can contact me at hem.jared@gmail.com
+* 💌 Get in touch with me at <a href="mailto:isaiahbarrett17@gmail.com">isaiahbarrett17@gmail.com</a>
 
 ## Social Media 📲
 <p align="left">
